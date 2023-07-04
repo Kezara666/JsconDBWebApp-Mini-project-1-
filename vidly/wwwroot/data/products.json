@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 12 Pro",
+    "price": 999.99,
+    "description": "The iPhone 12 Pro is a high-end smartphone with advanced features and powerful performance.",
+    "image": "https://fdn.gsmarena.com/imgroot/reviews/22/apple-iphone-14-pro/lifestyle/-1200w5/gsmarena_002.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21",
+    "price": 899.99,
+    "description": "The Samsung Galaxy S21 is a flagship Android smartphone with a stunning display and impressive camera capabilities.",
+    "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-max-1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sony PlayStation 5",
+    "price": 499.99,
+    "description": "The Sony PlayStation 5 is a next-generation gaming console that delivers immersive gaming experiences and high-fidelity graphics.",
+    "image": "https://m-cdn.phonearena.com/images/review/5440-wide-two_1200/Apple-iPhone-14-Pro-vs-iPhone-14-one-is-new-the-other-is-not.jpg"
+  }
+]
